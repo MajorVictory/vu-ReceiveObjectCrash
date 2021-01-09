@@ -1,0 +1,11 @@
+{
+    "Name": "Event Crash Mod - Receive Object",
+    "Description": "This mod crashes your server",
+    "Version": "1.0.0",
+    "Authors": [ "MajorVictory87" ],
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    },
+    "Tags": []
+}
